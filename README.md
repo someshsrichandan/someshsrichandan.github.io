@@ -1,7 +1,7 @@
 
 # My Personal Portfolio
 
-![Portfolio Screenshot](./image/home.png)
+![Portfolio Screenshot](/image/home.png)
 
 Welcome to my personal portfolio! This project is designed with a futuristic, sci-fi aesthetic using Arwes JS. Explore my work, skills, and projects in a visually stunning environment inspired by space and technology.
 
@@ -50,8 +50,8 @@ Feel free to explore the portfolio to see my projects and skills. The design is 
 
 ## Screenshot
 
-![Portfolio Screenshot](./image/about.png)
-![Portfolio Screenshot](./image/project.png)
+![Portfolio Screenshot](/image/about.png)
+![Portfolio Screenshot](/image/project.png)
 
 
 > *Note: Replace the image placeholders with actual screenshots of your portfolio.*

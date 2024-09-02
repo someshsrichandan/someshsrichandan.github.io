@@ -1,20 +1,20 @@
 
 # My Personal Portfolio
 
-![Portfolio Screenshot](./home.png)
+![Portfolio Screenshot](./image/home.png)
 
 Welcome to my personal portfolio! This project is designed with a futuristic, sci-fi aesthetic using Arwes JS. Explore my work, skills, and projects in a visually stunning environment inspired by space and technology.
 
 ## Tech Stack
 
-- **Frontend**: React.js, Arwes JS, Tailwind CSS
-- **Styling**: Custom CSS with sci-fi elements
+ **Frontend**: React.js, Arwes JS, Tailwind CSS
+ **Styling**: Custom CSS with sci-fi elements
 
 ## Features
 
-- **Interactive Design**: Engage with a sci-fi themed user interface using Arwes JS.
-- **Responsive Layout**: Designed to look great on both desktop and mobile devices.
-- **Dynamic Animations**: Futuristic animations and effects to enhance user experience.
+ **Interactive Design**: Engage with a sci-fi themed user interface using Arwes JS.
+ **Responsive Layout**: Designed to look great on both desktop and mobile devices.
+**Dynamic Animations**: Futuristic animations and effects to enhance user experience.
 
 ## Installation
 
@@ -50,8 +50,8 @@ Feel free to explore the portfolio to see my projects and skills. The design is 
 
 ## Screenshot
 
-![Portfolio Screenshot](./about.png)
-![Portfolio Screenshot](./project.png)
+![Portfolio Screenshot](./image/about.png)
+![Portfolio Screenshot](./image/project.png)
 
 
 > *Note: Replace the image placeholders with actual screenshots of your portfolio.*

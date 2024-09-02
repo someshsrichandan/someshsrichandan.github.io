@@ -1,4 +1,4 @@
-```markdown
+
 # My Personal Portfolio
 
 ![Portfolio Screenshot](./home.png)

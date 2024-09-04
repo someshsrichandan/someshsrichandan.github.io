@@ -136,7 +136,7 @@ const HomePage = () => {
                 </Animated>
             </Animator>
 
-            <Animator active={active} duration={{ delay: 1, enter: 1.3 }}>
+            <Animator active={active} duration={{ delay: 0.5, enter: 0.8 }}>
                 <Animated
                     as="div"
                     className="flex flex-wrap justify-center max-w-[500px] w-full px-3    items-center gap-x-6 md:gap-x-16 gap-y-4"

@@ -179,7 +179,7 @@ const HomePage = () => {
                                     style={{
                                         color: theme.colors.primary.text(1),
                                     }}
-                                    className="font-medium text-[17px] font-primary hover:mix-blend-plus-lighter transition-all duration-150"
+                                    className="font-medium text-[17px] font-primary hover:mix-blend-plus-lighter "
                                 >
                                     Project
                                 </Text>
@@ -211,7 +211,7 @@ const HomePage = () => {
                                     style={{
                                         color: theme.colors.primary.text(1),
                                     }}
-                                    className="font-medium font-primary text-[17px] hover:mix-blend-plus-lighter transition-all duration-150"
+                                    className="font-medium font-primary text-[17px] hover:mix-blend-plus-lighter "
                                 >
                                     About me
                                 </Text>

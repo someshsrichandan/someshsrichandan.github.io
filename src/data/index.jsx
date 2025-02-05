@@ -209,7 +209,7 @@ export const projectData = [
     {
         title: 'TO-DO-LIST',
         description: 'Developed a sleek and responsive web application using React and Tailwind CSS. Created an intuitive user interface with dynamic rendering, ensuring a clean and consistent design system. The result is a modern, aesthetically pleasing, and highly functional frontend experience.',
-        image: './assets/weatherapp.jpg',
+        image: './assets/to-do-1.png',
         date: 'August 2024',
         effort: 'Low effort',
         work: 'design',
@@ -219,7 +219,7 @@ export const projectData = [
     {
         title: 'WeatherApp',
         description: " A beautifully designed weather application that provides live weather data, a 5-day forecast, and detailed weather metrics for any location around the globe. With a sleek and modern UI, users can easily search for their desired location and get real-time weather updates, air quality information, and more.",
-        image: './assets/to-do-1.png',
+        image: './assets/weatherapp.jpg',
         date: 'August 2024',
         effort: 'Low effort',
         work: 'code',
